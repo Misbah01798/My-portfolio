@@ -8,7 +8,7 @@ const projectsData = [
   {
     id: 1,
     title: "Easy Shop Website",
-    description: "Project 1 description",
+    description: "Project shop description",
     image: "/images/projects/10.png",
     tag: ["All", "Web"],
     gitUrl: "/",
